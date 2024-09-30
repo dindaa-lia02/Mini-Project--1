@@ -1,25 +1,54 @@
 # Mini-Project--1
-Nama: Dinda Aulia Rizky  NIM: 2409116076   
+Nama: Dinda Aulia Rizky  NIM: 2409116076   Kelas: B
 
 Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk menghitung total harga barang berdasarkan harga barang dan jumlah pembelian dengan menerapkan diskon sebesar 25%. Dengan program ini, pengguna dapat melihat apakah total harga barang yang dibeli sesuai dengan syarat untuk mendapatkan diskon sebesar 25%.
 
-**Cara Penggunaan**
-1. Program dimulai dengan menginput data pribadi yang terdiri dari nama dan NIM. Jika data yang telah di input tidak sesuai dengan syarat, maka program tidak terverifikasi. sehingga, program akan kembali meminta untuk menginputkan data pribadi. pada program ini, While True digunakan sebagai perulangan (Looping) pada saat data yang dimasukkan tidak sesuai dengan yang sudah ditentukan
-	gambar kode
-berikut gambar outputnya
-	gambar output
+**Alur Output Program**
+1. Program dimulai dengan menginput data pribadi yang terdiri dari nama dan NIM. Jika data yang telah di input tidak sesuai dengan syarat, maka program tidak terverifikasi. sehingga, program akan kembali meminta untuk menginputkan data 
+   pribadi. pada program ini, while True digunakan sebagai perulangan (Looping) pada saat data yang dimasukkan tidak sesuai dengan yang sudah ditentukan
+   ![Screenshot 2024-10-01 052647](https://github.com/user-attachments/assets/fd637e60-5c81-4785-81aa-27789fda2b4e)
+
+   berikut gambar outputnya
+   
 
 2. memberikan jarak agar program terlihat lebih rapi
-   gambar
+   ![Screenshot 2024-10-01 052659](https://github.com/user-attachments/assets/86900096-dda8-4bfe-b217-a5e467dde959)
    
-4. Menampilkan judul project dengan print
-   gambar kode
-   berikut gambar outputnya
-   gambar output
-   
-5. Program ini menggunakan definition yang berfungsi mendefinisikan fungsi program. Selanjutnya Di dalam definisi tersebut terdapat bagian yang meminta menginputkan total harga yang didapatkan dari perkalian harga barang dan jumlah pembelian yang sudah di input, lalu terdapat pula penginputan diskon sebesar 0.25 atau sebesar 25%.
-	gambar kode
-berikut gambar outputnya
-gambar output
+5. Menampilkan judul project dengan print
+   ![Screenshot 2024-10-01 052711](https://github.com/user-attachments/assets/9b706cf4-165c-4de5-8e7a-1954fc6821ef)
 
-6. Kemudian, menggunakan percabangan seperti if dan else. pada baris ini terdapat 
+   Berikut gambar outputnya
+   
+   
+6. Program ini menggunakan definition yang berfungsi mendefinisikan fungsi program. Selanjutnya Di dalam 
+   definisi tersebut terdapat bagian yang meminta menginputkan total harga yang didapatkan dari perkalian 
+   harga barang dan jumlah pembelian yang sudah di input, lalu terdapat pula penginputan diskon sebesar 
+   0.25 atau sebesar 25%.
+   ![Screenshot 2024-10-01 052719](https://github.com/user-attachments/assets/7b94039f-9398-4aef-a0f2-81b8b546eda3)
+
+   Berikut gambar outputnya
+
+8. Kemudian, menerapkan percabangan seperti if dan else untuk menetukan apakah total harga lebih dari Rp250.000 agar bisa mendapatkan diskon. Pada baris ini terdapat rumus untuk menghitung harga setelah mendapatkan diskon sebesar 25% serta menampilkan total harga menggunakan print.
+   gambar
+
+9. Apabila total harga barang dan jumlah pembelian tidak mencapai lebih dari Rp250.000, maka tidak mendapatkan diskon. Sehingga langsung masuk ke dalam percabagan else.
+   gambar
+
+10. Menerapkan perulangan (Looping) dengan while True. Pada baris ini pengguna akan diberikan 2 pilihan yakni ingin mengulang dalam menghitung total harga atau berhenti menghitung.
+   gambar
+
+
+**Cara Penggunaan**
+
+
+Flowchart
+
+
+Output pada terminal
+
+
+
+
+
+
+

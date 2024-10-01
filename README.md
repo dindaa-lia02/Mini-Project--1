@@ -1,9 +1,11 @@
 # Mini-Project--1
 Nama: Dinda Aulia Rizky  NIM: 2409116076   Kelas: B
 
+# ***Menghitung total harga barang berdasarkan harga barang dan jumlah pembelian.***
+  
 Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk menghitung total harga barang berdasarkan harga barang dan jumlah pembelian dengan menerapkan diskon sebesar 25%. Dengan program ini, pengguna dapat melihat apakah total harga barang yang dibeli apakah sesuai dengan syarat untuk mendapatkan diskon sebesar 25%.
 
-**Alur Output Program**
+## `A. Alur Output Program`
 1. Program dimulai dengan menginput data pribadi yang terdiri dari nama dan NIM. Jika data yang telah di input tidak sesuai dengan syarat, maka program tidak terverifikasi. Sehingga, program akan kembali meminta untuk menginputkan data 
    pribadi. Pada program ini, "while True" digunakan sebagai perulangan (Looping) pada saat data yang dimasukkan tidak sesuai dengan yang sudah ditentukan. Lalu, menerapkan percabangan "if dan else" untuk mengidentifikasi apakahjawaban 
    benar atau salah dan dapat langsung memproses outputnya.
@@ -20,7 +22,8 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
    ![Screenshot 2024-10-01 055350](https://github.com/user-attachments/assets/e14e3504-cf12-4c1a-a0ef-fb2f9287c6fd)
    
 
-2. Memberikan jarak agar program terlihat lebih rapi
+
+3. Memberikan jarak agar program terlihat lebih rapi
 
    ![Screenshot 2024-10-01 052659](https://github.com/user-attachments/assets/86900096-dda8-4bfe-b217-a5e467dde959)
 

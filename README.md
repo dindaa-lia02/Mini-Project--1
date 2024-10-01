@@ -1,7 +1,7 @@
 # Mini-Project--1
 Nama: Dinda Aulia Rizky  NIM: 2409116076   Kelas: B
 
-# ***Menghitung total harga barang berdasarkan harga barang dan jumlah pembelian.***
+# ***Menghitung total harga barang diskon berdasarkan harga barang dan jumlah pembelian.***
   
 Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk menghitung total harga barang berdasarkan harga barang dan jumlah pembelian dengan menerapkan diskon sebesar 25%. Dengan program ini, pengguna dapat melihat apakah total harga barang yang dibeli sesuai dengan syarat untuk mendapatkan diskon sebesar 25%.
 
@@ -129,6 +129,7 @@ Cara menggunakan program yang dilakukan pada terminal
 
 # `C. Flowchart`
 
+![Flowchart Praktikum Daspro_Dinda Aulia](https://github.com/user-attachments/assets/2a7539eb-14c8-4d12-ac3e-9d684bfa5b32)
 
 
 

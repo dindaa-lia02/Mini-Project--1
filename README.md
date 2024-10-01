@@ -3,12 +3,12 @@ Nama: Dinda Aulia Rizky  NIM: 2409116076   Kelas: B
 
 # ***Menghitung total harga barang berdasarkan harga barang dan jumlah pembelian.***
   
-Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk menghitung total harga barang berdasarkan harga barang dan jumlah pembelian dengan menerapkan diskon sebesar 25%. Dengan program ini, pengguna dapat melihat apakah total harga barang yang dibeli apakah sesuai dengan syarat untuk mendapatkan diskon sebesar 25%.
+Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk menghitung total harga barang berdasarkan harga barang dan jumlah pembelian dengan menerapkan diskon sebesar 25%. Dengan program ini, pengguna dapat melihat apakah total harga barang yang dibeli sesuai dengan syarat untuk mendapatkan diskon sebesar 25%.
 
 ## `A. Alur Output Program`
 1. Program dimulai dengan menginput data pribadi yang terdiri dari nama dan NIM. Jika data yang telah di input tidak sesuai dengan syarat, maka program tidak terverifikasi. Sehingga, program akan kembali meminta untuk menginputkan data 
-   pribadi. Pada program ini, "while True" digunakan sebagai perulangan (Looping) pada saat data yang dimasukkan tidak sesuai dengan yang sudah ditentukan. Lalu, menerapkan percabangan "if dan else" untuk mengidentifikasi apakahjawaban 
-   benar atau salah dan dapat langsung memproses outputnya.
+   pribadi. Pada program ini, "while True" digunakan sebagai perulangan (Looping) pada saat data yang dimasukkan tidak sesuai dengan yang sudah ditentukan. Lalu, menerapkan percabangan "if dan else" untuk mengidentifikasi apakah 
+   jawaban benar atau salah dan dapat langsung memproses outputnya.
 
    ![Screenshot 2024-10-01 052647](https://github.com/user-attachments/assets/fd637e60-5c81-4785-81aa-27789fda2b4e)
 
@@ -56,7 +56,7 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
     ![Screenshot 2024-10-01 053743](https://github.com/user-attachments/assets/1bd3f3e8-407a-472f-bb2e-43445bc584b2)
    
    
-9. Kemudian, menerapkan percabangan seperti if dan else untuk menetukan apakah total harga lebih dari 
+9. Kemudian, menerapkan percabangan seperti if dan else untuk menentukan apakah total harga lebih dari 
    Rp250.000 agar bisa mendapatkan diskon. Pada baris ini terdapat rumus untuk menghitung harga setelah 
    mendapatkan diskon sebesar 25% serta menampilkan total harga menggunakan print.
  
@@ -78,7 +78,7 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
     
 
 13. Menerapkan perulangan (Looping) dengan while True. Pada baris ini pengguna akan diberikan 2 pilihan 
-    yakni ingin mengulang dalam menghitung total harga atau berhenti menghitung.
+    yakni apakah ingin mengulang untuk menghitung total harga atau berhenti menghitung.
 
      ![Screenshot 2024-10-01 052759](https://github.com/user-attachments/assets/7f527189-b37e-49a7-84b6-c3b730616962)
 
@@ -107,7 +107,7 @@ Cara menggunakan program yang dilakukan pada terminal
    ![Screenshot 2024-10-01 060551](https://github.com/user-attachments/assets/d5339055-d44e-45e0-b423-961f9ddc02be)
 
   
-7. Jika harga barang lebih dari Rp250.000, maka akan mendapatkan diskon sebesar 25%
+7. Jika harga barang lebih dari Rp250.000, maka pengguna akan langsung mendapatkan diskon sebesar 25%
 
    ![Screenshot 2024-10-01 060113](https://github.com/user-attachments/assets/d9413f5a-a579-4f4b-b9f4-9a5a89d0965e)
 

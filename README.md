@@ -127,19 +127,8 @@ Cara menggunakan program yang dilakukan pada terminal
 
    
 
+# `C. Flowchart`
 
-
-
-
-# `Output pada terminal`
-
-- Jika berhasil mendapatkan diskon
-
-
-- Jika tidak mendapatkan diskon
-
-
-# `Flowchart`
 
 
 

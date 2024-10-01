@@ -23,7 +23,9 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
    
 
 
-3. Memberikan jarak agar program terlihat lebih rapi
+
+    
+2. Memberikan jarak agar program terlihat lebih rapi
 
    ![Screenshot 2024-10-01 052659](https://github.com/user-attachments/assets/86900096-dda8-4bfe-b217-a5e467dde959)
 
@@ -41,7 +43,8 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
 
     ![Screenshot 2024-10-01 053523](https://github.com/user-attachments/assets/a3c1e2d4-0e33-4bbb-8b4d-3634269752cc)
    
-5. Program ini menggunakan definition yang berfungsi mendefinisikan fungsi program. Selanjutnya Di dalam 
+   
+6. Program ini menggunakan definition yang berfungsi mendefinisikan fungsi program. Selanjutnya Di dalam 
    definisi tersebut terdapat bagian yang meminta menginputkan total harga yang didapatkan dari perkalian 
    harga barang dan jumlah pembelian yang sudah di input, lalu terdapat pula penginputan diskon sebesar 
    0.25 atau sebesar 25%.
@@ -52,6 +55,7 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
 
     ![Screenshot 2024-10-01 053743](https://github.com/user-attachments/assets/1bd3f3e8-407a-472f-bb2e-43445bc584b2)
    
+   
 9. Kemudian, menerapkan percabangan seperti if dan else untuk menetukan apakah total harga lebih dari 
    Rp250.000 agar bisa mendapatkan diskon. Pada baris ini terdapat rumus untuk menghitung harga setelah 
    mendapatkan diskon sebesar 25% serta menampilkan total harga menggunakan print.
@@ -61,8 +65,9 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
    Berikut gambar output pada terminal
  
    ![Screenshot 2024-10-01 053534](https://github.com/user-attachments/assets/1f5617a9-aacd-4ac8-affb-eb8c705611d4)
+   
 
-10. Apabila total harga barang dan jumlah pembelian tidak mencapai lebih dari Rp250.000, maka tidak
+11. Apabila total harga barang dan jumlah pembelian tidak mencapai lebih dari Rp250.000, maka tidak
     akan mendapatkan diskon. Sehingga, langsung masuk ke dalam percabangan else.
   
     ![Screenshot 2024-10-01 052738](https://github.com/user-attachments/assets/fa9b24b9-9fbf-4b0c-aa7a-da2b1feab8cf)
@@ -70,8 +75,9 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
     Berikut gambar output pada terminal
  
     ![Screenshot 2024-10-01 053833](https://github.com/user-attachments/assets/7d0090f2-5742-4680-81cd-cffefaaa50d5)
+    
 
-12. Menerapkan perulangan (Looping) dengan while True. Pada baris ini pengguna akan diberikan 2 pilihan 
+13. Menerapkan perulangan (Looping) dengan while True. Pada baris ini pengguna akan diberikan 2 pilihan 
     yakni ingin mengulang dalam menghitung total harga atau berhenti menghitung.
 
      ![Screenshot 2024-10-01 052759](https://github.com/user-attachments/assets/7f527189-b37e-49a7-84b6-c3b730616962)
@@ -82,9 +88,9 @@ Program ini adalah program sederhana berbasis Python yang dapat digunakan untuk 
 
     
 
-**Cara Penggunaan**
+# `B. Cara Penggunaan`
 
-Cara menggunakan program ini yang dilakukan pada terminal
+Cara menggunakan program yang dilakukan pada terminal
 
 1. Pengguna akan diminta untuk memasukkan nama dan NIM untuk memverifikasi data
 
@@ -125,14 +131,15 @@ Cara menggunakan program ini yang dilakukan pada terminal
 
 
 
-**Output pada terminal**
+# `Output pada terminal`
 
-Jika berhasil mendapatkan diskon
-
-Jika tidak mendapatkan diskon
+- Jika berhasil mendapatkan diskon
 
 
-**Flowchart**
+- Jika tidak mendapatkan diskon
+
+
+# `Flowchart`
 
 
 

@@ -129,7 +129,8 @@ Cara menggunakan program yang dilakukan pada terminal
 
 # `C. Flowchart`
 
-![Flowchart Praktikum Daspro_Dinda Aulia](https://github.com/user-attachments/assets/2a7539eb-14c8-4d12-ac3e-9d684bfa5b32)
+![Dinda Aulia_2409116076](https://github.com/user-attachments/assets/4a5f9ab9-481a-44ae-bd97-66fe87b8d7e3)
+
 
 
 

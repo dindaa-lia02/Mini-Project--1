@@ -129,7 +129,7 @@ Cara menggunakan program yang dilakukan pada terminal
 
 # `C. Flowchart`
 
-![Dinda Aulia_2409116076](https://github.com/user-attachments/assets/4a5f9ab9-481a-44ae-bd97-66fe87b8d7e3)
+
 
 
 
